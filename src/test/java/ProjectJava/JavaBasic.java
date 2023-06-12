@@ -15,5 +15,7 @@ public class JavaBasic {
 		System.out.println("Test is pass");
 		
 		System.out.println("Test is pass1");System.out.println("Test is pass1");System.out.println("Test is pass");
+		
+		//Test pass
 	}
 }
